@@ -23,6 +23,15 @@ The project is structured as follows:
 
 To run this project locally, follow these steps:
 
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/job-portal-backend.git
+   cd job-portal-backend
+## Setup and Installation
+
+To run this project locally, follow these steps:
+
 
 ## Configure the Database
 
