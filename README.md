@@ -68,8 +68,8 @@ Here are the main API endpoints available in the application:
 - `DELETE /jobPost/{postid}` - Delete a job listing.
 - `GET /jobPosts/keyword/{keyword}` - Search for jobs based on criteria.
 
-#### Contributing
+### Contributing
 If you want to contribute to this project, please fork the repository and create a pull request with your changes.
 
-#### License
+### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
