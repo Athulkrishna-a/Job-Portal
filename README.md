@@ -23,6 +23,19 @@ The project is structured as follows:
 
 To run this project locally, follow these steps:
 
+
+## Configure the Database
+
+Ensure that MySQL is installed and running on your system. Create a database named `job_portal`.
+
+Update the `application.properties` file with your database credentials:
+
+```properties
+spring.datasource.url=jdbc:mysql://localhost:3306/job_portal
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+spring.jpa.hibernate.ddl-auto=update
+
 1. **Clone the Repository:**
 
    ```bash
