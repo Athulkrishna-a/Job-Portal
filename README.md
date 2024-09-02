@@ -51,33 +51,3 @@ spring.jpa.hibernate.ddl-auto=update
    git clone https://github.com/yourusername/job-portal-backend.git
    cd job-portal-backend
 
-2. **Build the Project
-    Use Maven to build the project:
-
-bash
-```bash
-mvn clean install
-Run the Application
-Start the application using:
-
-```bash
-mvn spring-boot:run
-Access the Application
-The backend will be running at http://localhost:8080.
-
-3. ***Access the Application
-The backend will be running at http://localhost:8080.
-
-API Endpoints
-Here are the main API endpoints available in the application:
-
-GET /api/jobs - Retrieve all job listings.
-POST /api/jobs - Add a new job listing.
-PUT /api/jobs/{id} - Update an existing job listing.
-DELETE /api/jobs/{id} - Delete a job listing.
-GET /api/jobs/search - Search for jobs based on criteria.
-Contributing
-If you want to contribute to this project, please fork the repository and create a pull request with your changes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
