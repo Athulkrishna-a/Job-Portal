@@ -41,9 +41,5 @@ spring.datasource.username=your_username
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 
-1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/job-portal-backend.git
-   cd job-portal-backend
 
