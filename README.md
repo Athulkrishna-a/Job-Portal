@@ -19,3 +19,12 @@ This project is a backend implementation of a job portal that provides essential
 ## Project Structure
 
 The project is structured as follows:
+## Setup and Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/job-portal-backend.git
+   cd job-portal-backend
