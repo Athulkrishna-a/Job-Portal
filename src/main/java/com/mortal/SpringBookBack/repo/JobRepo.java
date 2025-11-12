@@ -15,17 +15,26 @@ public interface  JobRepo  extends JpaRepository<JobPost,Integer> {
 
 }
 
-//List<JobPost> jobs = new ArrayList<>(Arrays.asList(
-//		new JobPost(1, "Network Engineer",
-//				"Design and implement computer networks for efficient data communication", 5,
-//				List.of("Networking", "Cisco", "Routing", "Switching")),
-//		new JobPost(2, "Frontend Developer", "Experience in building responsive web applications using React",
-//				3, List.of("HTML", "CSS", "JavaScript", "React")),
-//		new JobPost(3, "Data Scientist", "Strong background in machine learning and data analysis", 4,
-//				List.of("Python", "Machine Learning", "Data Analysis")),
-//		new JobPost(4, "Back End Developer ", "Strong background in Java , SQL , Spring Boot", 0,
-//				List.of("Java", "SQL", "SpringBoot"))
-//));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //public List<JobPost> getAllJobs() {
